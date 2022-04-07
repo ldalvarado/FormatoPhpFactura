@@ -1,0 +1,33 @@
+
+
+body {
+    font-family: arial,verdana;
+    font-size: 12.8px;
+    color: rgb(51, 51, 51);
+    width: 100%;
+    background: -webkit-linear-gradient(top, rgb(170, 204, 238), rgb(221, 238, 255), rgb(221, 238, 255), rgb(170, 204, 238), rgb(85, 136, 221)) no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+}
+
+html, body {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    display: block;
+    margin: 0px;
+}
+.icon{
+    background-image: url(../img/LogoSin.png);
+    width: 80px;
+}
+.body-register{
+    background-image: url(../img/WallpaperRegistro.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
